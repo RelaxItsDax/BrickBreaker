@@ -1,0 +1,5 @@
+name: Breaker
+version: '${project.version}'
+main: me.relaxitsdax.breaker.Breaker
+api-version: 1.19
+description: Brick Breaker!
